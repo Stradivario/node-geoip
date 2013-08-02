@@ -1,15 +1,15 @@
 {
-	"name": "geoip-lite",
+	"name": "geoip-lite-sam",
 	"version": "1.0.10",
 	"description": "A light weight native JavaScript implementation of GeoIP API from MaxMind",
 	"keywords": ["geo", "geoip", "ip", "ipv4", "ipv6", "geolookup", "maxmind", "geolite"],
-	"homepage": "https://github.com/bluesmoon/node-geoip",
+	"homepage": "https://github.com/samholmes/node-geoip",
 	"author": "Philip Tellis <philip@bluesmoon.info> (http://bluesmoon.info/)",
 	"files": ["lib/", "data/", "test/","scripts/"],
 	"main": "lib/geoip.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/bluesmoon/node-geoip.git"
+		"url": "git://github.com/samholmes/node-geoip.git"
 	},
 	"engines": {
 		"node": ">=0.6.3"
